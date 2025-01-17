@@ -10,7 +10,7 @@ public class text_middle_trimmer {
 
         System.out.println("Enter something: ");
         str1 = sc1.nextLine();
-
+        
         if(str1.length() > 33) {
             arr1 = str1.split(" ");
             tt1 = arr1[0] + " " + arr1[1] + "..." + arr1[arr1.length-1];
@@ -19,6 +19,5 @@ public class text_middle_trimmer {
         }
 
         System.out.println(tt1);
-        sc1.close();
     }
 }
