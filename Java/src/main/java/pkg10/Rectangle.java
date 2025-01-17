@@ -1,4 +1,4 @@
-package pkg1;
+package pkg10;
 
 public class Rectangle {
 	double l;

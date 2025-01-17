@@ -1,4 +1,4 @@
-package pkg1;
+package pkg10;
 
 public class TextCircleRect {
 	public static void main(String[] args) {
